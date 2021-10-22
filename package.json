@@ -1,0 +1,12 @@
+{
+  "name": "ts-bot",
+  "version": "69.420.69",
+  "description": "typescript-is-cool",
+  "main": "index.js",
+  "author": "NickR69420",
+  "license": "MIT",
+  "dependencies": {
+    "@sapphire/framework": "^2.1.3",
+    "discord.js": "^13.2.0"
+  }
+}
