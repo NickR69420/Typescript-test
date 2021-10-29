@@ -1,12 +1,21 @@
 {
-  "name": "ts-bot",
-  "version": "69.420.69",
-  "description": "typescript-is-cool",
-  "main": "index.js",
-  "author": "NickR69420",
-  "license": "MIT",
-  "dependencies": {
-    "@sapphire/framework": "^2.1.3",
-    "discord.js": "^13.2.0"
-  }
+  "name": "typescripp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --watch src/main.ts",
+    "start": "tsc && node dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickR69420/Typescript-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickR69420/Typescript-test/issues"
+  },
+  "homepage": "https://github.com/NickR69420/Typescript-test#readme"
 }

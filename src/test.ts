@@ -1,3 +1,5 @@
+import { Citizen, Student } from "./Citizens/City";
+
 // Types
 type User = {
   username: string;
