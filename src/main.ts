@@ -18,3 +18,4 @@ const ImposterNick = new SlickNicky10({
 });
 
 console.log(ImposterNick);
+// oop
